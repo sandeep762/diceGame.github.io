@@ -1,0 +1,64 @@
+*{
+    text-align: center;
+    margin-top: 0;
+}
+body{
+    background-color: #33343d;
+
+}
+h1{
+    font-family: cursive;
+    font-size: 8em;
+    color: MediumAquaMarine;
+    font-family: 'Kaushan Script', cursive;
+    display: inline-block;
+    margin-right: 10px;
+
+}
+#con-div{
+    background-color: none;
+    height: 50%;
+    width: 50%;
+    margin: 0 auto;
+    
+}
+
+.player1_div{
+    display: inline;
+    float: left;
+    margin-left: 5em;
+}
+.player2_div{
+    display: inline;
+}
+h2{
+    color: MediumAquaMarine;
+    font-family: 'Caveat', cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2em;
+}
+h3 img{
+    
+    height: 1em;
+    width: 1em;
+}
+h3{
+    margin-top: 3em;
+    font-family: 'Caveat', cursive;
+font-family: 'Kaushan Script', cursive;
+    color: whitesmoke;
+    font-size: 2em;
+}
+
+.vis{
+    visibility: hidden;
+    height: 5em;
+    width: 4em;
+}
+
+.vis2{
+    
+    height: 5em;
+    width: 4em;
+    visibility: hidden;   
+}
